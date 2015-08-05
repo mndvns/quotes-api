@@ -1,6 +1,6 @@
-# api_test
+# quotes-api
 
-a hypermedia api
+a random quote service
 
 ## License
 
